@@ -1,0 +1,4 @@
+cmake-build-debug
+3rdparty
+*.onnx
+.idea
